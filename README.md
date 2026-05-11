@@ -1,4 +1,4 @@
-# Bandit Wargame Progress (Levels 1–10)
+# Bandit Wargame Progress 
 
 **This repository documents my progress through the Bandit wargame, a beginner-friendly Linux and command-line challenge designed to build foundational skills in shell usage, file handling, and basic security concepts.**
 
@@ -32,4 +32,7 @@
 
 # Bandit10
 ![Bandit Level 10](screenshots/bandit10.png)
+
+# Bandit11
+![Bandit Level 11](screenshots/bandit11.png)
 
