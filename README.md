@@ -36,3 +36,10 @@
 # Bandit11
 ![Bandit Level 11](screenshots/bandit11.png)
 
+# Bandit12
+![Bandit Level 12](screenshots/bandit12p1.png)
+![Bandit Level 12](screenshots/bandit12p2.png)
+![Bandit Level 12](screenshots/bandit12p3.png)
+![Bandit Level 12](screenshots/bandit12p4.png)
+![Bandit Level 12](screenshots/bandit12p5.png)
+
