@@ -47,3 +47,11 @@
 
 ![Bandit Level 12](screenshots/bandit12p5.png)
 
+# Bandit13
+![Bandit Level 13](screenshots/bandit13p1.png)
+
+![Bandit Level 13](screenshots/bandit13p2.png)
+
+![Bandit Level 13](screenshots/bandit13p3.png)
+
+![Bandit Level 13](screenshots/bandit13p4.png)
