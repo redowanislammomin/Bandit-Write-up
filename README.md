@@ -58,3 +58,8 @@
 
 # Bandit14
 ![Bandit Level 14](screenshots/bandit14.png)
+
+# Bandit15
+![Bandit Level 15](screenshots/bandit15p1.png)
+
+![Bandit Level 15](screenshots/bandit15p2.png)
