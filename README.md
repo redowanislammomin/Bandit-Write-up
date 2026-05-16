@@ -75,3 +75,14 @@
 
 # Bandit17
 ![Bandit Level 17](screenshots/bandit17.png)
+
+# Bandit18
+![Bandit Level 18](screenshots/bandit18p1.png)
+
+![Bandit Level 18](screenshots/bandit18p2.png)
+
+![Bandit Level 18](screenshots/bandit18p3.png)
+
+
+# Bandit19
+![Bandit Level 19](screenshots/bandit19.png)
