@@ -94,3 +94,8 @@
 ![Bandit Level 21](screenshots/bandit21p1.png)
 
 ![Bandit Level 21](screenshots/bandit21p2.png)
+
+# Bandit22
+![Bandit Level 22](screenshots/bandit22p1.png)
+
+![Bandit Level 22](screenshots/bandit22p2.png)
