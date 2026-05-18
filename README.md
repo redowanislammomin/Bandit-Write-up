@@ -89,3 +89,8 @@
 
 # Bandit20
 ![Bandit Level 20](screenshots/bandit20.png)
+
+# Bandit21
+![Bandit Level 21](screenshots/bandit21p1.png)
+
+![Bandit Level 21](screenshots/bandit21p2.png)
