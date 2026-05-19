@@ -99,3 +99,12 @@
 ![Bandit Level 22](screenshots/bandit22p1.png)
 
 ![Bandit Level 22](screenshots/bandit22p2.png)
+
+# Bandit23
+![Bandit Level 23](screenshots/bandit23p1.png)
+
+![Bandit Level 23](screenshots/bandit23p2.png)
+
+![Bandit Level 23](screenshots/bandit23p3.png)
+
+![Bandit Level 23](screenshots/bandit23p4.png)
