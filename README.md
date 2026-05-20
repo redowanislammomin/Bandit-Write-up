@@ -108,3 +108,15 @@
 ![Bandit Level 23](screenshots/bandit23p3.png)
 
 ![Bandit Level 23](screenshots/bandit23p4.png)
+
+# Bandit24
+![Bandit Level 24](screenshots/bandit24p1.png)
+
+![Bandit Level 24](screenshots/bandit24p2.png)
+
+![Bandit Level 24](screenshots/bandit24p3.png)
+
+![Bandit Level 24](screenshots/bandit24p4.png)
+
+
+
