@@ -118,5 +118,13 @@
 
 ![Bandit Level 24](screenshots/bandit24p4.png)
 
+# Bandit25
+![Bandit Level 25](screenshots/bandit25p1.png)
+**note:** when you see more than press v to enter vim. than you have to set shell.
+![Bandit Level 25](screenshots/bandit25p2.png)
+
+![Bandit Level 25](screenshots/bandit25p3.png)
+
+![Bandit Level 25](screenshots/bandit25p4.png)
 
 
