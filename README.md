@@ -129,4 +129,7 @@
 
 ![Bandit Level 25](screenshots/bandit25p4.png)
 
+**note:** complete 26 as well its easy and we same as bandit19 ( bandit19-20). and dont forget to log out properly
+# Bandit26
+![Bandit Level 26](screenshots/bandit26.png)
 
