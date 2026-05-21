@@ -133,3 +133,5 @@
 # Bandit26
 ![Bandit Level 26](screenshots/bandit26.png)
 
+**note** write exit , :qa! or :q! to quite. 
+
