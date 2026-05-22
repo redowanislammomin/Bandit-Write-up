@@ -135,3 +135,18 @@
 
 **note** write exit then :qa! or :q! to quite. 
 
+# Bandit27
+
+![bandit27](screenshot/bandit27p1.png)
+
+- git clone have flag for port. :2220 added after hostname.
+
+![bandit27](screenshot/bandit27p2.png)
+## Resources
+
+**basic git**
+>checkout my this repo it will help you to understand basic (bare minimum) git.
+
+- [Git Notes](https://github.com/redowanislammomin/cybersecurity-notes/blob/main/Basic-git/git.md)
+
+
