@@ -137,11 +137,11 @@
 
 # Bandit27
 
-![bandit27](screenshot/bandit27p1.png)
+![bandit27](screenshots/bandit27p1.png)
 
 - git clone have flag for port. :2220 added after hostname.
 
-![bandit27](screenshot/bandit27p2.png)
+![bandit27](screenshots/bandit27p2.png)
 ## Resources
 
 **basic git**
