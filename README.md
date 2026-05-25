@@ -149,4 +149,32 @@
 
 - [Git Notes](https://github.com/redowanislammomin/cybersecurity-notes/blob/main/Basic-git/git.md)
 
+## Bandit28
 
+- git clone same way as bandit27 after host name add port number (bandit28-git@bandit......org **:2220**)
+
+![bandit28](screenshots/bandit28p1.png)
+
+![bandit28](screenshots/bandit28p2.png)
+
+![bandit28](screenshots/bandit28p3.png)
+
+- in 3rd pic i can see log so i will start with first/old hash to check what was changed than we might able to find pass.
+
+![bandit28](screenshots/bandit28p4.png)
+
+![bandit28](screenshots/bandit28p5.png)
+
+we didnt found anything but we know pass has not decided yet 
+
+![bandit28](screenshots/bandit28p6.png)
+
+![bandit28](screenshots/bandit28p7.png)
+
+![bandit28](screenshots/bandit28p8.png)
+## Resources
+
+**basic git**
+>checkout my this repo it will help you to understand basic (bare minimum) git.
+
+- [Git Notes](https://github.com/redowanislammomin/cybersecurity-notes/blob/main/Basic-git/git.md)
