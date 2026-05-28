@@ -194,4 +194,4 @@ we didnt found anything but we know pass has not decided yet
 **basic git**
 >checkout my this repo it will help you to understand basic (bare minimum) git.
 
-- [Git Notes](https://github.com/redowanislammomin/cybersecurity-notes/blob/main/Basic-git/git-command-sheet.md)
+- [common git command sheet](https://github.com/redowanislammomin/cybersecurity-notes/blob/main/Basic-git/git-command-sheet.md)
