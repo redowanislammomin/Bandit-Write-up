@@ -178,3 +178,20 @@ we didnt found anything but we know pass has not decided yet
 >checkout my this repo it will help you to understand basic (bare minimum) git.
 
 - [Git Notes](https://github.com/redowanislammomin/cybersecurity-notes/blob/main/Basic-git/git.md)
+
+# Bandit29
+
+![bandit29](screenshots/bandit29p1.png)
+
+![bandit29](screenshots/bandit29p2.png)
+
+![bandit29](screenshots/bandit29p3.png)
+
+![bandit29](screenshots/bandit29p4.png)
+
+## Resources
+
+**basic git**
+>checkout my this repo it will help you to understand basic (bare minimum) git.
+
+- [Git Notes](https://github.com/redowanislammomin/cybersecurity-notes/blob/main/Basic-git/git-command-sheet.md)
