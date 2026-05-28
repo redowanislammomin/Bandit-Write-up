@@ -194,4 +194,6 @@ we didnt found anything but we know pass has not decided yet
 **basic git**
 >checkout my this repo it will help you to understand basic (bare minimum) git.
 
-- [common git command sheet](https://github.com/redowanislammomin/cybersecurity-notes/blob/main/Basic-git/git-command-sheet.md)
+- [Git command sheet](https://github.com/redowanislammomin/cybersecurity-notes/blob/main/Basic-git/git-command-sheet.md)
+- in this sheet you will find mostly common command people use in git.
+- dont have to memorize as long as you know command exist for this job or any job you are doing and know how to find it. nobody memorize all of that. 
