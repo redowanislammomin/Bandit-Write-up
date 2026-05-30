@@ -189,6 +189,7 @@ we didnt found anything but we know pass has not decided yet
 
 ![bandit29](screenshots/bandit29p4.png)
 
+
 ## Resources
 
 **basic git**
@@ -202,11 +203,15 @@ we didnt found anything but we know pass has not decided yet
 
 First few step are same as previous git bandit so i didnt give any pic of it.
 
+---
+
 ```bash
 mkdir bandit30 && cd bandit30
 git clone ssh://bandit30-git@bandit.labs.overthewire.org:2220/home/bandit30-git/repo (add port )
 give bandit30 <password>
 ```
+---
+
 ![bandit30](screenshots/bandit30p1.png)
 
 ![bandit30](screenshots/bandit30p2.png)
