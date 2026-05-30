@@ -196,4 +196,39 @@ we didnt found anything but we know pass has not decided yet
 
 - [Git command sheet](https://github.com/redowanislammomin/cybersecurity-notes/blob/main/Basic-git/git-command-sheet.md)
 - in this sheet you will find mostly common command people use in git.
-- dont have to memorize as long as you know command exist for this job or any job you are doing and know how to find it. nobody memorize all of that. 
+- dont have to memorize as long as you know command exist for this job or any job you are doing and know how to find it. nobody memorize all of that.
+
+## Bandit30
+
+First few step are same as previous git bandit so i didnt give any pic of it.
+
+```bash
+mkdir bandit30 && cd bandit30
+git clone ssh://bandit30-git@bandit.labs.overthewire.org:2220/home/bandit30-git/repo (add port )
+give bandit30 <password>
+```
+![bandit30](screenshots/bandit30p1.png)
+
+![bandit30](screenshots/bandit30p2.png)
+
+- tag give hash a human readable name.
+>hash gibberish we cant understand but tag is version name v1.0.0 - vx.x.x
+
+**Two types of tag**
+- lightweight tag : just a version name 
+- annotated tag   : verstion with specific message
+
+---
+
+```bash
+git tag v2.3.4 #lighweight
+git tag -a v2.3.4 -m "message any text" #annotated
+```
+---
+
+## Resources
+
+**basic git**
+>checkout my this repo it will help you to understand basic (bare minimum) git.
+
+- [Git command sheet](https://github.com/redowanislammomin/cybersecurity-notes/blob/main/Basic-git/git-command-sheet.md)
