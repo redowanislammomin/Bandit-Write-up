@@ -237,3 +237,25 @@ git tag -a v2.3.4 -m "message any text" #annotated
 >checkout my this repo it will help you to understand basic (bare minimum) git.
 
 - [Git command sheet](https://github.com/redowanislammomin/cybersecurity-notes/blob/main/Basic-git/git-command-sheet.md)
+
+## Bandit31
+
+First few step are same as previous git bandit so i didnt give any pic of it.
+
+---
+
+```bash
+mkdir bandit31 && cd bandit30
+git clone ssh://bandit31-git@bandit.labs.overthewire.org:2220/home/bandit30-git/repo (add port )
+give bandit31 <password>
+cd repo
+```
+---
+
+![bandit31](screenshots/bandit31p1.png)
+
+![bandit31](screenshots/bandit32p1.png)
+
+![bandit31](screenshots/bandit33p1.png)
+>Write string as they gave you and you can you echo ".." > key.txt as well this would be less time consuming than nano.
+
