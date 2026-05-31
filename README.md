@@ -231,12 +231,7 @@ git tag -a v2.3.4 -m "message any text" #annotated
 ```
 ---
 
-## Resources
-
-**basic git**
->checkout my this repo it will help you to understand basic (bare minimum) git.
-
-- [Git command sheet](https://github.com/redowanislammomin/cybersecurity-notes/blob/main/Basic-git/git-command-sheet.md)
+![bandit31](screenshots/bandit31p1.png)
 
 ## Bandit31
 
@@ -255,6 +250,15 @@ cd repo
 ![bandit31](screenshots/bandit31p1.png)
 
 ![bandit31](screenshots/bandit31p2.png)
+
+---
+
+```bash
+if you see .gitignore added .txt . than do this (most likely they will tell you what to do )
+git add -f key.txt
+```
+
+---
 
 ![bandit31](screenshots/bandit31p3.png)
 >Write string as they gave you and you can you echo ".." > key.txt as well this would be less time consuming than nano.
