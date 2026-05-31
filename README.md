@@ -245,7 +245,7 @@ First few step are same as previous git bandit so i didnt give any pic of it.
 ---
 
 ```bash
-mkdir bandit31 && cd bandit30
+mkdir bandit31 && cd bandit31
 git clone ssh://bandit31-git@bandit.labs.overthewire.org:2220/home/bandit30-git/repo (add port )
 give bandit31 <password>
 cd repo
@@ -254,8 +254,8 @@ cd repo
 
 ![bandit31](screenshots/bandit31p1.png)
 
-![bandit31](screenshots/bandit32p1.png)
+![bandit31](screenshots/bandit31p2.png)
 
-![bandit31](screenshots/bandit33p1.png)
+![bandit31](screenshots/bandit31p3.png)
 >Write string as they gave you and you can you echo ".." > key.txt as well this would be less time consuming than nano.
 
