@@ -1,4 +1,4 @@
-# Bandit Wargame Progress 
+# Bandit Wargame level: 1-33 (Complete)
 
 **This repository documents my progress through the Bandit wargame, a beginner-friendly Linux and command-line challenge designed to build foundational skills in shell usage, file handling, and basic security concepts.**
 
@@ -263,3 +263,36 @@ git add -f key.txt
 ![bandit31](screenshots/bandit31p3.png)
 >Write string as they gave you and you can you echo ".." > key.txt as well this would be less time consuming than nano.
 
+
+
+## Bandit32
+
+In this challenge i learn about argument more clearly . 
+
+```bash
+./script.sh 10 20 ...
+```
+
+**here:**
+- $0 is ./script.sh itself.
+- $1 is 10
+- $2 is 20 
+- $n is n number argument.
+
+**why this need:**
+
+```
+while making script you dont wanna change value always from inside its hassle and sometime you might messed up if scirpt is too long.
+so creating argument make it easier for other to just put their argument depending one their needs.
+```
+![bandit32](screenshots/bandit32.png)
+
+## Bandit33
+
+![bandit33](screenshots/bandit33.png)
+
+---
+
+THANK YOU . And lemme know if there is some mistake or easier way to do things.
+
+---
