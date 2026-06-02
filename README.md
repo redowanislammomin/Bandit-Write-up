@@ -282,8 +282,8 @@ In this challenge i learn about argument more clearly .
 **why this need:**
 
 ```
-while making script you dont wanna change value always from inside its hassle and sometime you might messed up if scirpt is too long.
-so creating argument make it easier for other to just put their argument depending one their needs.
+well making script you dont wanna change value always from inside its hassle and sometime you might messed up if scirpt is too long.
+so creating argument make it easier for other to just put their argument depending on their needs.
 ```
 ![bandit32](screenshots/bandit32.png)
 
